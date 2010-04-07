@@ -2,7 +2,7 @@ By the time of writing this program I could not find proper information about [h
 
 = General task & notes =
 
-Our task - create a chat with simple programs, as:
+Our task - create chat with simple parts, as:
  # *server*
   # Listens to a predefined ip address and port, and "register" all incoming clients;
   # Identifies each new client when connecting;
