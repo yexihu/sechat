@@ -21,3 +21,5 @@ Several additional notes:
   * OS Linux (kernel version >= 2.5.66)
   * GNU gcc
   * GNU make  
+
+= Conclusion =
