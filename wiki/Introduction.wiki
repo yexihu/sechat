@@ -1,4 +1,4 @@
-By the time of writing this program I could not find proper information about [http://linux.die.net/man/4/epoll epoll] with any simple exmaple or tutorial, and I started to develop my own simple project seChat ("Simple Epoll Chat") based on epoll to investigate its features. Here I wanted to share my own impressions of the [http://linux.die.net/man/4/epoll epoll] and help others to use seChat sources as start point to develop/test/investigate something.
+By the time of writing this program I could not find proper information about [http://linux.die.net/man/4/epoll epoll] with good example or tutorial, and I started to develop my version of "Simple Epoll Chat"(seChat) based on epoll to investigate it. Here I wanted to share my own results and impressions of the [http://linux.die.net/man/4/epoll epoll] and to help others who want to develop/test/investigate [http://linux.die.net/man/4/epoll epoll] as soon as it possible.
 
 = General task & notes =
 
