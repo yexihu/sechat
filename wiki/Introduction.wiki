@@ -23,6 +23,7 @@ Several additional notes:
   * GNU make  
 
 = Conclusion =
-I think the screenshot always more expressive then thousands of worlds.
-Just look to the picture after running the tester. 
+I think the screenshot after executing tester could be more expressive then thousands of worlds.
+Just look... 
 http://sechat.googlecode.com/files/sechatstat.PNG
+Server handled around 7000 connections at 0.25 second, not bad! ;-)
