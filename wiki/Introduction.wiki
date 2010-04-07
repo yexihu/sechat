@@ -16,3 +16,8 @@ Several additional notes:
  # For simplicity:
   # I'm not using the "normal" error handlers, and any exceptions call exit code (which  very useful solution at the stage of coding and testing!). Ideally, the program should handle the error and try to return to the "normal job state", but I tried to be keep code as simple at is possible;
   # I hardcoded ip address and port - i'm lazy :-), but you free to change source to run program like '*./server ip port*' or '*./client 192.168.1.1:1234*'.
+
+= Requirements =
+  * OS Linux (kernel version >= 2.5.66)
+  * GNU gcc
+  * GNU make  
