@@ -23,3 +23,6 @@ Several additional notes:
   * GNU make  
 
 = Conclusion =
+I think the screenshot always more expressive then thousands of worlds.
+Just look to the picture after running the tester. 
+http://sechat.googlecode.com/files/sechatstat.PNG
