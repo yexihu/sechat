@@ -30,4 +30,4 @@ Just look...
 
 http://sechat.googlecode.com/files/sechatstat.PNG
 
-*Server handled around 7000 connections at 0.25 second, not bad!* ;-)
+*Server handled around 17000 connections per second, not bad!* ;-)
